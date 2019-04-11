@@ -89,6 +89,12 @@ end
     @board.all? { |i| i == "X" || i =="O" }
   end
 
+  def draw?
+    !(won?) && (full?)
+  end
+
+  
+
 
 
 
