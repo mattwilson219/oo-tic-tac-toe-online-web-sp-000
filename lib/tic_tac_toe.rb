@@ -97,6 +97,15 @@ end
     won? || full? || draw?
   end
 
+  def winner
+
+  def play
+    until? over  
+      turn
+    end
+
+  
+
 
 
 
