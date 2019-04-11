@@ -93,7 +93,7 @@ end
     !(won?) && (full?)
   end
 
-  
+
 
 
 
