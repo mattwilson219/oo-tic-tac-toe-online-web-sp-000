@@ -110,9 +110,9 @@ end
   end
 
   def play
-    until? over
-      turn
-    end
+  until over? == true
+    turn
+  end
 
 
 
