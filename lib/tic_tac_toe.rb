@@ -89,8 +89,8 @@ end
     @board.all? { |i| i == "X" || i =="O" }
   end
 
-  
-  
+
+
 
 
 
