@@ -100,11 +100,11 @@ end
   def winner
 
   def play
-    until? over  
+    until? over
       turn
     end
 
-  
+
 
 
 
